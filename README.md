@@ -32,31 +32,31 @@ IELTS aspirants face multiple challenges:
 
 **Evaluation based on:**
 
-Fluency & Coherence
+>Fluency & Coherence
 
-Lexical Resource
+>Lexical Resource
 
-Grammatical Range & Accuracy
+>Grammatical Range & Accuracy
 
-Pronunciation
+>Pronunciation
 
-Instant band score + detailed feedback
+>Instant band score + detailed feedback
 
-Writing Module
+>Writing Module
 
-Supports Task 1 & Task 2 essays
+>Supports Task 1 & Task 2 essays
 
 **AI evaluates:**
 
-Task achievement
+>Task achievement
 
-Coherence & cohesion
+>Coherence & cohesion
 
-Vocabulary usage
+>Vocabulary usage
 
-Grammar accuracy
+>Grammar accuracy
 
-Highlights mistakes and generates model answers
+>Highlights mistakes and generates model answers
 
 
 ** System Architecture**
@@ -73,27 +73,28 @@ LLM-based Feedback Generation
 Frontend Dashboard (Scores & Insights)
 
 ** Tech Stack**
-AI / ML
 
-Speech-to-Text (Whisper or similar)
+>AI / ML
 
-NLP: spaCy, NLTK
+>Speech-to-Text (Whisper or similar)
 
-Large Language Models (LLMs)
+>NLP: spaCy, NLTK
 
-Feature engineering for band score mapping
+>Large Language Models (LLMs)
 
-Backend
+>Feature engineering for band score mapping
 
-Python
+>Backend
 
-FastAPI / Flask
+>Python
 
-Frontend
+>FastAPI / Flask
 
-Streamlit / React
+>Frontend
 
-Database
+>Streamlit / React
 
-PostgreSQL / Firebase
+>Database
+
+>PostgreSQL / Firebase
 
